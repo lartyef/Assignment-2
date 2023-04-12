@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+table, td, th {
+    border: 1px solid blanchedalmond;
+    padding: 1em;
+    border-collapse: collapse;
+}
+img {
+    width: 200px;
+}
